@@ -10,7 +10,7 @@ public class ComparatorMethod {
         
         List<Dog> list =new ArrayList<>(); 
         list.add(new Dog("Shaggy", 3));
-        list.add(new Dog("Lacy", 2));
+        list.add(new Dog("Lacydewd", 2));
         list.add(new Dog("Roger", 10));
         list.add(new Dog("Tommy", 4));
         list.add(new Dog("Tammy", 1));
